@@ -1,0 +1,14 @@
+{
+    "role": "REGULAR",
+    "username": "dmanley",
+    "password": "",
+    "firstName": "Dave",
+    "lastName": "Manley",
+    "birthDate": "2000-10-12T23:00:00",
+    "phone": "703-555-5511",
+    "email": "dave@dave.dave",
+    "passport": "839205",
+    "address": "124 Street Rd., Town, ST 12345",
+    "linkedAccounts": [],
+    "frequentFlyer": false
+}

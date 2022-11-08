@@ -1,0 +1,11 @@
+{
+    "id": "b42dbd93-90f5-445e-9f49-bffea3dfbbaa",
+    "name": "Super 8 Motel",
+    "location": "Seattle, WA",
+    "hasGym": false,
+    "hasPool": false,
+    "rating": 5,
+    "kingPrice": 99,
+    "queenPrice": 89,
+    "doublePrice": 79
+}
